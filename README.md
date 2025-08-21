@@ -1,1 +1,3 @@
-![](https://komarev.com/ghpvc/?username=POKERFAE&color=c22c23&style=plastic&label=Orders+Served)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=POKERFAE&color=c22c23&style=plastic&label=Orders+Served">
+</p>
